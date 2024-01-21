@@ -11,5 +11,8 @@ public class Main {
         LOGGER.info("Hello world!");
         LOGGER.info("Hello main");
         LOGGER.info("Hello Branch");
+        LOGGER.info("Hello Branch 1");
+        LOGGER.info("Hello Branch 2");
+        LOGGER.info("Hello Branch 3");
     }
 }
