@@ -10,5 +10,6 @@ public class Main {
     public static void main(String[] args) {
         LOGGER.info("Hello world!");
         LOGGER.info("Hello main");
+        LOGGER.info("Hello Branch");
     }
 }
